@@ -1,0 +1,16 @@
+*.zip
+*.7z
+*.rar
+*.raw
+*.mem
+*.dmp
+*.vhd
+*.vhdx
+*.E01
+*.e01
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+tmp/
+out/
